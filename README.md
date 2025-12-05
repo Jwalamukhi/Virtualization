@@ -1,9 +1,9 @@
 # Virtualization
 ## Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
-## NAME: ARCHANA S
+## NAME: JWALAMUKHI S
 
-## REG NO: 212223040019
+## REG NO: 212223040079
 ## Aim:
 
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
